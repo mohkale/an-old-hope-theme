@@ -25,6 +25,7 @@ Ports of theme can currently be found for:
 * [Hyper](https://github.com/erikmueller/an-old-hype)
 * [emacs](https://github.com/mohkale/an-old-hope-emacs)
 * [konsole](https://github.com/mohkale/an-old-hope-konsole)
+* [yakuake](https://github.com/mohkale/an-old-hope-yakuake)
 * Sublime Text
   * [frog42](https://github.com/frog42/an-old-hope-syntax-sublime)
   * [banastas](https://github.com/banastas/an-old-hope-syntax-sublime)
