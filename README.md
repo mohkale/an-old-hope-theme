@@ -23,6 +23,7 @@ Ports of theme can currently be found for:
 * [IntelliJ](https://github.com/JuanMaRuiz/an-old-hope-syntax-intellij)
 * [PyCharm](https://github.com/rpalo/pycharm-old-hope)
 * [Hyper](https://github.com/erikmueller/an-old-hype)
+* [emacs](https://github.com/mohkale/an-old-hope-emacs)
 * Sublime Text
   * [frog42](https://github.com/frog42/an-old-hope-syntax-sublime)
   * [banastas](https://github.com/banastas/an-old-hope-syntax-sublime)
