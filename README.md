@@ -30,6 +30,7 @@ Ports of theme can currently be found for:
   * [frog42](https://github.com/frog42/an-old-hope-syntax-sublime)
   * [banastas](https://github.com/banastas/an-old-hope-syntax-sublime)
   * [DLMousey](https://github.com/DLMousey/an-old-hope-syntax-sublime)
+  * [mohkale](https://github.com/mohkale/an-old-hope-sublime)
 * vim
   * [j-tom](https://github.com/j-tom/vim-old-hope)
   * [enthudave](https://github.com/enthudave/star_wars.vim)
