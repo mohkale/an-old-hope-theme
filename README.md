@@ -38,6 +38,7 @@ Ports of theme can currently be found for:
 * Mac OS Terminal
   * [Nosenation](https://github.com/Nosenation/an-old-hope-terminal)
   * [banastas](https://gist.github.com/banastas/42c4685182a45afe8a2dc1ce18a92243)
+* [xcode](https://github.com/erikmueller/an-old-hope-xcode)
 
 ## Credits
 All of this began from **@[jesseleite](https://github.com/jesseleite)'s** initial theme created for atom.
