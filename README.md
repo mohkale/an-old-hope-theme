@@ -18,6 +18,7 @@ theme for different programs.
 ## Ports
 Ports of theme can currently be found for:
 
+* [alacritty](https://github.com/theherk/an-old-hope-alacritty)
 * [Atom](https://github.com/JesseLeite/an-old-hope-syntax-atom)
 * [VSCode](https://github.com/dustinsanders/an-old-hope-theme-vscode)
 * [IntelliJ](https://github.com/JuanMaRuiz/an-old-hope-syntax-intellij)
